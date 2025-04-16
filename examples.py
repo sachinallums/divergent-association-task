@@ -19,3 +19,4 @@ high = ["hippo", "jumper", "machinery", "prickle", "tickets", "tomato", "violin"
 print(model.dat(low)) # 50
 print(model.dat(average)) # 78
 print(model.dat(high)) # 95
+
